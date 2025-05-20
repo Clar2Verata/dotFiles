@@ -1,0 +1,5 @@
+indent_type = "Spaces"
+indent_width = 8
+column_width = 120
+space_after_function_names = "Definitions"
+line_endings = "Unix"
